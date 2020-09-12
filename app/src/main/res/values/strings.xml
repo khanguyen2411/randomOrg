@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomOrg</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="get">Get</string>
+    <string name="hihi">hihi</string>
+</resources>
